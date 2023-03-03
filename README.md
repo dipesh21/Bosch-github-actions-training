@@ -1,2 +1,2 @@
 # github-actions-course
-test 3
+test3
